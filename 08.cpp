@@ -1,3 +1,6 @@
+///8.	Create a base class Payment with a function processPayment().
+///Derive classes CreditCardPayment, UPIPayment, and NetBankingPayment. Redefine the function in each derived class to display the corresponding payment process
+
 #include <iostream>
 using namespace std;
 
