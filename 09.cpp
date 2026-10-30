@@ -1,3 +1,6 @@
+///9.	Create a class Student with data members rollNo, name, and marks. 
+  ///  Use the this pointer in the constructor to distinguish data members from parameters. Display the student details.
+
 #include <iostream>
 using namespace std;
 
