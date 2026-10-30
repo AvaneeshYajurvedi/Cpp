@@ -1,3 +1,6 @@
+///5.	Create a class Person, derive classes Student and Employee from it, and derive TeachingAssistant from both. 
+///    Use a virtual base class to ensure that TeachingAssistant contains only one copy of the Person data.
+
 #include <iostream>
 using namespace std;
 
