@@ -1,3 +1,5 @@
+///2.Create a base class Shape and derive classes Circle, Rectangle, and Triangle. Calculate and display the area of each shape.
+
 #include <iostream>
 using namespace std;
 
