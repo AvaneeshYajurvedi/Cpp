@@ -1,3 +1,5 @@
+///4.	Implement a hybrid inheritance structure involving classes Person, Student, Employee, and TeachingAssistant. 
+///    Demonstrate the relationships and display the relevant details.
 #include <iostream>
 using namespace std;
 
