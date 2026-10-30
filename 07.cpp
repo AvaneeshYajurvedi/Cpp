@@ -1,3 +1,6 @@
+///7.	Create a base class Employee with a function display(). Override display() in the derived class Manager. 
+///Use the scope resolution operator to call both the base-class and derived-class versions of the function
+
 #include <iostream>
 using namespace std;
 
