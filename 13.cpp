@@ -1,3 +1,6 @@
+///13.	Create a base class Employee with a virtual function calculateSalary(). 
+///Derive classes PermanentEmployee and ContractEmployee, each implementing its own salary calculation. Demonstrate run-time polymorphism using base-class pointers.
+
 #include <iostream>
 using namespace std;
 
