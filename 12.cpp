@@ -1,3 +1,6 @@
+///12.	Create a base class Shape with a virtual function calculateArea(). 
+///Derive classes Circle, Rectangle, and Triangle. Use a base-class pointer to call the appropriate derived-class function.
+
 #include <iostream>
 using namespace std;
 
