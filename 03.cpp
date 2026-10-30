@@ -1,3 +1,6 @@
+///3.	Create classes Academic and Sports. Derive a class Result from both classes. 
+///Store academic marks and sports scores and display the student's overall performance.
+
 #include <iostream>
 using namespace std;
 
