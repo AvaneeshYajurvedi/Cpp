@@ -1,3 +1,6 @@
+///1.	Create three classes: Student, Marks, and Result.
+///Derive Marks from Student and Result from Marks. Accept student details and marks in three subjects, then calculate the total, percentage, and grade.
+
 #include <iostream>
 using namespace std;
 
