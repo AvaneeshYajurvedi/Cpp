@@ -1,3 +1,6 @@
+///6.	Create a base class Vehicle and a derived class Car. Implement default and parameterized constructors and destructors in both classes. 
+///    Display messages to demonstrate the order in which constructors and destructors are called.
+
 #include <iostream>
 using namespace std;
 
